@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Olá! Eu sou o Christopher Estanislau, desenvolvedor de applicações web e mobile!
+## Hi there 👋! I am Christopher Estanislau, web and mobile developer!
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
